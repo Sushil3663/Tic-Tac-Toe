@@ -1,0 +1,22 @@
+.Block{
+width: 150px;
+height: 150px;
+border: 3px solid black;
+background-size: cover;
+display: inline-block;
+}
+
+.borders{
+
+ margin-left:30%;
+ margin-top: 70px;
+
+}
+
+.mark2{
+  background-image: url(images/circle.png);
+}
+
+.mark1{
+  background-image: url(images/cross.png);
+}
